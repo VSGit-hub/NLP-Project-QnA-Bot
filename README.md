@@ -7,4 +7,5 @@ To execute in local machine some dependencies need to be installed. These are pr
 run command:  pip install -r requirement.txt
 
 ## Obtain Google API key
-To obtain google API key 
+To obtain Google API key go to https://aistudio.google.com and generate your own api key.
+
